@@ -1,0 +1,14 @@
+Origin: Hilbert
+Label: Hilbert
+Suite: stable
+Codename: stable
+Architectures: amd64
+Components: main
+Description: Apt repository for Hilbert, an offline Typst editor
+Date: Fri, 24 Jul 2026 09:07:05 UTC
+MD5Sum:
+ 549f537273c6d2584598c186bc1d03c9              770 main/binary-amd64/Packages
+ 42b4e4bf41294117639b5a358598496a              537 main/binary-amd64/Packages.gz
+SHA256:
+ a861910d061628159dbb8c392200ccd39d5ef7015a391bc4580137f1592600f7              770 main/binary-amd64/Packages
+ f273bb5074f102e99e3b4e46fa4b67e4c71970820d798fa6a1ba9638c2d97844              537 main/binary-amd64/Packages.gz
