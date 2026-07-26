@@ -8,27 +8,27 @@ Codename: stable
 Architectures: amd64
 Components: main
 Description: Apt repository for Hilbert, an offline Typst editor
-Date: Fri, 24 Jul 2026 09:07:05 UTC
+Date: Sun, 26 Jul 2026 10:22:50 UTC
 MD5Sum:
- 549f537273c6d2584598c186bc1d03c9              770 main/binary-amd64/Packages
- 42b4e4bf41294117639b5a358598496a              537 main/binary-amd64/Packages.gz
+ 2b029dfc7126ba09823b8211ce61d613              770 main/binary-amd64/Packages
+ bcce9dc31acd047d6203c4ca0dc89f35              526 main/binary-amd64/Packages.gz
 SHA256:
- a861910d061628159dbb8c392200ccd39d5ef7015a391bc4580137f1592600f7              770 main/binary-amd64/Packages
- f273bb5074f102e99e3b4e46fa4b67e4c71970820d798fa6a1ba9638c2d97844              537 main/binary-amd64/Packages.gz
+ 68809181f9951196a406315265b11956ad8200404e4c97ab402f10fe28f73591              770 main/binary-amd64/Packages
+ 6308066001543b23ce39aa99ef27dae9ef93c8b0fb368cd981a3ad89a8a30b19              526 main/binary-amd64/Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iQJPBAEBCAA5FiEE+WkX2s6UH+ZaaZmUf5quVAnyl2wFAmpjKzkbFIAAAAAABAAO
-bWFudTIsMi41KzEuMTIsMCwzAAoJEH+arlQJ8pdsdb8P/j0rrTfwARo4VCutvNh0
-WQ/5GMbheoCMhHQtbxvJ++0L66owOzmhDLBiiBqOs+LQh+3Y4j068IZ1OZ9epmUU
-MSOfU9kpTwp81zwKF644CRbr2XXbp9yXfAakJo+tBaAQPPnxycUaS6i9cwSsB2RE
-6XEyA+pryxc8P4NzWWGp2bcHZAo8wYXrOHCSW3qU3dxNQZfamlg/+NzxRmK0lY78
-6rLdjj51bw7n01Q1kPmyxXolPOVbemZfHN+0k/z8+s0RCXDNuPYa7vZr4ynydWZO
-+FKRnHEvFsNAC+zSK6i4cag7ObcJZ3GHazgKuvGm5+R34wd6CTalteYJVPRZV+Sq
-hr8Ki7NO/k8iJ3CA49gXxp5PJCY/UR41n2xr80T55B8kJaNMeLNRXZiX3VPu7Xtv
-5kaiikIYr42NJIIY+5WXPuQbx+G/S+vWLgwkT0ru4tb9nWlzm+etAm/mRaQOZmmD
-bagLjjeocWhxYFjBwSBDelwSNSTGIaGxfU4dHDrPY6AcER2WPGgmFHwqocesAmdF
-m/B84aCuQ0Z/2aiGux9S0riZc8jh/aVAomBxn7XLlib3EwgLuGbvC9ygneirNIqh
-joMWW3GG2Oabd7KomcPfOX/BNekAmiCcpPg74HDnlw2+EQbk0AxwQM5BoYDCKc8Z
-zJGljTFFTHc3Ge4tCuIZgXrx
-=M0fA
+iQJPBAEBCAA5FiEE+WkX2s6UH+ZaaZmUf5quVAnyl2wFAmpl3/obFIAAAAAABAAO
+bWFudTIsMi41KzEuMTIsMCwzAAoJEH+arlQJ8pdsYBEP/11Ig4lYk9c+9rgjF+ZR
+jTdixWdskXezu7ssswWw9pHfbhcgPExuEesl3rOhYXR7PegCSA0688GsOb4rxQwF
+MZoYyiKRi2kDrqvkG19TJS1Yg9EKKr58rNebW6FoQvIIrfa5ZOzN2RfnPDbD6DIU
+rGeiN6wmpfaPDAbRnZP+iiEDGszEZtocWio7KoU8oOdnY3kVn0gIfxHv11VO3fyp
+++Ih5BIbQfExdgmGoXpBcUtRdgtX0X7sFitTmqxMSIbXpKUEtT1beX9Uwdps3yoR
+9AnO04CsxL6gDwn4kFpNTMnNB5LFK2TDSGR3lWmp6hP+HDMLl4iCsfmkL/UBCG9C
+21fd/XZ2sVpvMNtZA3yy1fuvZlkkwp3V9eNKTvlvKGasYAad5FEPso+cFzMOl+RW
+fGVHOw649sMn3EaxHuH4YUYrtDw6IhDyWMTSKAALRMTBVfFq5Q46OKFptNR94JnS
++5AckJ33BFe0lBF+CcxcvynMPgUX/sFnmfraN90H+7vI69k8z1BJuuUt7QBCGMmC
+CwoUbHMrPJyKHp4StQlFEu4gfVi3jzuBbuhuHaRdUmAjDyi2PuTrDLOwB0v202mZ
+VBgsd9Mooo8EPeMsZDEIn+kohi1AvVoGQ2hNTdQKCdBrPE7NZfgVgGRQJKFazS1f
+mH5TFGA4KbKJJTcDtvY5XsOZ
+=6r0y
 -----END PGP SIGNATURE-----

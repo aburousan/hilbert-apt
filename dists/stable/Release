@@ -5,10 +5,10 @@ Codename: stable
 Architectures: amd64
 Components: main
 Description: Apt repository for Hilbert, an offline Typst editor
-Date: Fri, 24 Jul 2026 09:07:05 UTC
+Date: Sun, 26 Jul 2026 10:22:50 UTC
 MD5Sum:
- 549f537273c6d2584598c186bc1d03c9              770 main/binary-amd64/Packages
- 42b4e4bf41294117639b5a358598496a              537 main/binary-amd64/Packages.gz
+ 2b029dfc7126ba09823b8211ce61d613              770 main/binary-amd64/Packages
+ bcce9dc31acd047d6203c4ca0dc89f35              526 main/binary-amd64/Packages.gz
 SHA256:
- a861910d061628159dbb8c392200ccd39d5ef7015a391bc4580137f1592600f7              770 main/binary-amd64/Packages
- f273bb5074f102e99e3b4e46fa4b67e4c71970820d798fa6a1ba9638c2d97844              537 main/binary-amd64/Packages.gz
+ 68809181f9951196a406315265b11956ad8200404e4c97ab402f10fe28f73591              770 main/binary-amd64/Packages
+ 6308066001543b23ce39aa99ef27dae9ef93c8b0fb368cd981a3ad89a8a30b19              526 main/binary-amd64/Packages.gz
