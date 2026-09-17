@@ -8,30 +8,30 @@ Codename: stable
 Architectures: amd64
 Components: main
 Description: Hilbert — offline Typst editor
-Date: Tue, 25 Aug 2026 13:49:19 UTC
+Date: Thu, 17 Sep 2026 04:27:32 UTC
 MD5Sum:
- 88e7852f2bda3567699537ac5853e76a 768 main/binary-amd64/Packages
- 236ebed34520e31e78166f0a0c40cd36 536 main/binary-amd64/Packages.gz
+ 514c2903f2a747680f4f3109b3333517 768 main/binary-amd64/Packages
+ 015dd36c754a0cdc4f13bd0f494c95fe 528 main/binary-amd64/Packages.gz
 SHA1:
- 152bb3d125f1f33ed747bfaaf998158a48499b51 768 main/binary-amd64/Packages
- ec0e716270cffe711710412d8cdee5cf67da077b 536 main/binary-amd64/Packages.gz
+ c5a5520fbe9b4007d0c47a088b659332f1221c04 768 main/binary-amd64/Packages
+ 5653cca6aa917128e2d9a0be2e225bd417f29bde 528 main/binary-amd64/Packages.gz
 SHA256:
- 14cfd4ecd76cd82c8184ccab8a05353b87fbde3ddd5e5c266415e470c8438497 768 main/binary-amd64/Packages
- 80785725288470817db64f9cb492a2b80df2b2a004c812c28e864cb1cd0327d8 536 main/binary-amd64/Packages.gz
+ 472cb7fc95192d63de464772ffdfffb804390b82481da1ac5a5c7b2928130ca4 768 main/binary-amd64/Packages
+ 6f31a3c27c115ed366532a292acbee1625fcfabbf62178b6c857267193f0d836 528 main/binary-amd64/Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iQJPBAEBCAA5FiEE+WkX2s6UH+ZaaZmUf5quVAnyl2wFAmqNndcbFIAAAAAABAAO
-bWFudTIsMi41KzEuMTIsMCwzAAoJEH+arlQJ8pdslFwQALtKmepc0G/zqYl2e/Oq
-uH0wdnMhNVlgVZsmvnBQzVlRIw8ymr3a9fcyMwHFEY3pGnmI0XypkcsP2d8m5Muh
-xLFLCqaV7+HXAWlX6s5Qk7fz/H4c3Mx6A67MVrqV4s0g2sendSqMN/T8mpecl+ml
-9WcA/ZKaeDD32NDK/WH7s0oT1iofZFoxpau+K4bhGTTgswoRlo5iG50s88RFx7mE
-fpTKJI+02sKwDP0PGf7pWxyzm9WKa8FAeyB1CwHQU38qDwjP56RFXx58qVD76c/s
-ZXkPcBisnTZDGBQTdoAmzeZSI/XpcEJIzrgyMBEJQLgRMSezxf2vd+ppWksSt13E
-iL0mTnISnfZcNbbivuFixY/qZSi0RPmrzZHIYjMndWvNM+ft0RS3nYdE8c6EQoEy
-va+optxo9b5DN7DylydypS3+PbRaOE+oKBK4vfrNBinYJh4ywhLu9K4FMTY75pgg
-g+HxZqxs2WSyOu22UYRx8v4vDcUFLRYB+V5a85RKvAV5n96LITu6g0WCpw7DiUwD
-aFMLUpqzCfAnaquiFSGVU1qS0Y9bMoLoTTM0aexVtRRckQh1RK81uqHIoQ0pbLiX
-9hZ583rJ3OOR4bpi4RTBAymC0KoJ1Q7Uj+9OywbG5+KdMx1NQg0p+grXKXW9AN2v
-eY/ObN1t3z0+1xejgXOh/KE5
-=JiMN
+iQJPBAEBCAA5FiEE+WkX2s6UH+ZaaZmUf5quVAnyl2wFAmqrbDQbFIAAAAAABAAO
+bWFudTIsMi41KzEuMTIsMCwzAAoJEH+arlQJ8pds0ewQALdNR+EPVLqKDB6EYCvy
+JAjLOppV2aTkuljpQaI6YiVr2NpgOCkBuxX43P3M5T78tsUgWQ3DojzVZr6vjPo6
+uFIkwx9N7h9NlrRd2k8xXGdVeuLWvW2fPRfHyFNerkpN1otq9C8FidTvvHI1/Cxy
+lMZcB68n0UIRg/7ADZM+eOPkRO+ab2I/mNy9EUVSCkcSZzvVaoeGdI08oDMK+3I7
+YtgI9VVoMkghWaGnGWDva0lNQ8dz4MZ7X/X2w5QN5iuL+KV/MK5HwPPFvT1yVhuV
+vlZjqYZXa/zPhhb3BVW918hNnD3kYebQOCRRic73Xd/cQmP05M57VUR1YWKquK+i
+5NB7zpVGiTKivYqcO5OwpTVTXirN0/aHuN3IVzLfhE4aY5tMu9yr1MZO82nvHmFK
+QZ12QnUU7aDJ+4X/cRE5iq35Z+mZbpC8boPrDgyilKS4q90FXPuCfOg8yBXKB+Hv
+S6h9ZuiLfcvYTGnrQ5WWGJpjDNyFZrpHQA1fwL6szmRShdoGHiJac6D5dWuYtbZD
+VO7qjnONh+K3lnalEDGLYRJ/9RnPbMNLrz/a5Hdd9LdKa7AXTzFM7U8MZsf/wvEn
+YOenwncQuoP9mGv3lr2YZsl5oqH6UG9plUdaWRC+F6Wxt+/k7YX6xZBy9Wt+DZsb
+FwLK1WV3Qhj3TZyA4UQbfjQM
+=RwDe
 -----END PGP SIGNATURE-----

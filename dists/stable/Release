@@ -5,13 +5,13 @@ Codename: stable
 Architectures: amd64
 Components: main
 Description: Hilbert — offline Typst editor
-Date: Tue, 25 Aug 2026 13:49:19 UTC
+Date: Thu, 17 Sep 2026 04:27:32 UTC
 MD5Sum:
- 88e7852f2bda3567699537ac5853e76a 768 main/binary-amd64/Packages
- 236ebed34520e31e78166f0a0c40cd36 536 main/binary-amd64/Packages.gz
+ 514c2903f2a747680f4f3109b3333517 768 main/binary-amd64/Packages
+ 015dd36c754a0cdc4f13bd0f494c95fe 528 main/binary-amd64/Packages.gz
 SHA1:
- 152bb3d125f1f33ed747bfaaf998158a48499b51 768 main/binary-amd64/Packages
- ec0e716270cffe711710412d8cdee5cf67da077b 536 main/binary-amd64/Packages.gz
+ c5a5520fbe9b4007d0c47a088b659332f1221c04 768 main/binary-amd64/Packages
+ 5653cca6aa917128e2d9a0be2e225bd417f29bde 528 main/binary-amd64/Packages.gz
 SHA256:
- 14cfd4ecd76cd82c8184ccab8a05353b87fbde3ddd5e5c266415e470c8438497 768 main/binary-amd64/Packages
- 80785725288470817db64f9cb492a2b80df2b2a004c812c28e864cb1cd0327d8 536 main/binary-amd64/Packages.gz
+ 472cb7fc95192d63de464772ffdfffb804390b82481da1ac5a5c7b2928130ca4 768 main/binary-amd64/Packages
+ 6f31a3c27c115ed366532a292acbee1625fcfabbf62178b6c857267193f0d836 528 main/binary-amd64/Packages.gz
