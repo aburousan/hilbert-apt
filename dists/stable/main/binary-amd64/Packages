@@ -1,17 +1,17 @@
 Package: hilbert
-Version: 0.2.7
+Version: 0.2.8
 Architecture: amd64
 Maintainer: Kazi Abu Rousan
-Installed-Size: 79101
+Installed-Size: 79714
 Depends: libwebkit2gtk-4.1-0, libgtk-3-0
 Section: editors
 Priority: optional
 Homepage: https://github.com/aburousan/hilbert-editor
-Filename: pool/main/h/hilbert/Hilbert_0.2.7_amd64.deb
-Size: 37802612
-MD5sum: 71babcff6032adcc1f316419bae42b71
-SHA1: 87445b3e786db8540cf9d6737702105c08e07ba5
-SHA256: 8807bb18e987d3a93f4180eef07a0c4187cfe993924184a09a0ce879d7ca19bc
+Filename: pool/main/h/hilbert/Hilbert_0.2.8_amd64.deb
+Size: 38567292
+MD5sum: 73cdb34a970b82d9e1013bd8c64a29ee
+SHA1: 4038f790692f5f8cd10d411ae35057e22d785295
+SHA256: 3d9fbf534f854f00081471fd3861161c3071afdd565cae14548086d49e157269
 Description: Offline editor for Typst, aimed at maths and physics writing
  Hilbert is a local, offline desktop editor for the Typst typesetting language.
  It compiles and previews as you type, with tools for equations, figures, plots,
